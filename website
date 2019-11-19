@@ -58,7 +58,7 @@ a {
   
 }
 </style>
-
+<body>
 <p1 class=p1> Max Orywal </p1>
 <p class=p2>Sans in Smash</p>
 <audio preload autoplay loop>
@@ -85,4 +85,5 @@ a {
 </form>
 
 <a href="https://theuselessweb.com/"><p class=p3> Waste Some Time with Me!</a>
-</htmml>
+</body>
+</html>
