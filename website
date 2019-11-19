@@ -1,3 +1,64 @@
+<!DOCTYPE HTML>
+<html>
+<style>
+
+body{ 
+background-color: #ECE8EA;
+  background-image: url(https://wallpaperplay.com/walls/full/9/1/9/16249.jpg);
+}
+
+p1{
+  text-align:left;
+  color:#6C8DD8;
+  font-family:Comic Sans MS;
+  font-size:100%
+}
+.p2 {
+  text-align:center;
+  color:#6C8DD8;
+  font-family:Comic Sans MS;
+  font-size:200%
+}
+.p3 {
+  text-align:center;
+  color:#6C8DD8;
+  font-family:Comic Sans MS;
+  font-size:150%;  
+}
+.p4 {
+  text-align:center;
+  color: #6C8DD8;
+  font-family:Comic Sans MS;
+  font-size:100%;
+}
+.p5 {
+  text-align:left;
+  color: #6C8DD8;
+  font-family:Comic Sans MS;
+  font-size:100%;
+}
+ol {
+  text-align:left;
+  color: #FF80AB;
+  font-family:Comic Sans MS;
+  font-size:100%;
+}
+form {
+  color:white;
+    font-family: Comic Sans MS;
+}
+
+.center {
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+}
+a {
+  color:#FF80AB;
+  
+}
+</style>
+
 <p1 class=p1> Max Orywal </p1>
 <p class=p2>Sans in Smash</p>
 <audio preload autoplay loop>
@@ -24,3 +85,4 @@
 </form>
 
 <a href="https://theuselessweb.com/"><p class=p3> Waste Some Time with Me!</a>
+</htmml>
